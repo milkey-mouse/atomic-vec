@@ -1,0 +1,9 @@
+[package]
+name = "atomic-vec"
+version = "0.1.0"
+authors = ["The Rust Project Developers", "Milkey Mouse <milkeymouse@meme.institute>"]
+edition = "2018"
+license = "Apache-2.0/MIT"
+
+[dependencies]
+allocator_api = { git = "https://github.com/milkey-mouse/allocator_api.git" }

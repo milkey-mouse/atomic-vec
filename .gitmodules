@@ -1,0 +1,3 @@
+[submodule "allocator_api"]
+	path = allocator_api
+	url = https://github.com/milkey_mouse/allocator_api
